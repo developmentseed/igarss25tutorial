@@ -1,6 +1,7 @@
 # IGARSS 2025 tutorial: Harnessing the Power of Earth Foundation Models
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://www.developmentseed.org/igarss25tutorial)
+[![MyST GitHub Pages Deploy](https://github.com/developmentseed/igarss25tutorial/actions/workflows/deploy.yml/badge.svg)](https://github.com/developmentseed/igarss25tutorial/actions/workflows/deploy.yml)
 
 Material for the Earth Foundation Model tutorial (HD-06) at the 2025
 [IEEE International Geoscience and Remote Sensing Symposium (IGARSS)](https://2025.ieeeigarss.org).
