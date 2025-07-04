@@ -1,5 +1,8 @@
 # IGARSS 2025 tutorial: Harnessing the Power of Earth Foundation Models
 
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://www.developmentseed.org/igarss25tutorial)
+[![MyST GitHub Pages Deploy](https://github.com/developmentseed/igarss25tutorial/actions/workflows/deploy.yml/badge.svg)](https://github.com/developmentseed/igarss25tutorial/actions/workflows/deploy.yml)
+
 Material for the Earth Foundation Model tutorial (HD-06) at the 2025
 [IEEE International Geoscience and Remote Sensing Symposium (IGARSS)](https://2025.ieeeigarss.org).
 
@@ -37,7 +40,7 @@ and/or any of the tutorial presenters.
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under
   <a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-    Creative Commons Attribution 4.0 International
+    Creative Commons Attribution 4.0 International<br>
     <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="">
     <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="">
   </a>
