@@ -641,14 +641,21 @@ dependencies = [
     { name = "pystac-client" },
 ]
 
+[package.optional-dependencies]
+docs = [
+    { name = "jupyter-book" },
+]
+
 [package.metadata]
 requires-dist = [
     { name = "earthaccess", specifier = ">=0.14.0" },
+    { name = "jupyter-book", marker = "extra == 'docs'", specifier = ">=2.0.0a3" },
     { name = "jupyterlab", specifier = ">=4.4.4" },
     { name = "matplotlib", specifier = ">=3.10.3" },
     { name = "numpy", specifier = ">=2.3.1" },
     { name = "pystac-client", specifier = ">=0.8.6" },
 ]
+provides-extras = ["docs"]
 
 [[package]]
 name = "importlib-resources"
@@ -816,6 +823,22 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/bf/ce/46fbd9c8119cfc3581ee5643ea49464d168028cfb5caff5fc0596d0cf914/jsonschema_specifications-2025.4.1.tar.gz", hash = "sha256:630159c9f4dbea161a6a2205c3011cc4f18ff381b189fff48bb39b9bf26ae608", size = 15513, upload-time = "2025-04-23T12:34:07.418Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/01/0e/b27cdbaccf30b890c40ed1da9fd4a3593a5cf94dae54fb34f8a4b74fcd3f/jsonschema_specifications-2025.4.1-py3-none-any.whl", hash = "sha256:4653bffbd6584f7de83a67e0d620ef16900b390ddc7939d56684d6c81e33f1af", size = 18437, upload-time = "2025-04-23T12:34:05.422Z" },
+]
+
+[[package]]
+name = "jupyter-book"
+version = "2.0.0a3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "ipykernel" },
+    { name = "jupyter-core" },
+    { name = "jupyter-server" },
+    { name = "nodeenv" },
+    { name = "platformdirs" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/3c/6e/55f1c1a56c0dda49e107f9733d3407fab3068286ef1187f9e499ad8c12fc/jupyter_book-2.0.0a3.tar.gz", hash = "sha256:558ed176a027294ef2890c807853cac2be039b11df2d531f909589ab26cdaf00", size = 14415900, upload-time = "2025-03-25T16:38:24.889Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/f8/b3/05463fab4cbecf1037216ec4e7d8511d0a5768d580f570311c19ebc75f2c/jupyter_book-2.0.0a3-py3-none-any.whl", hash = "sha256:3328b6388cd9c9dd9b0d06b22ff031e53878a80d3ee40873daaef7ab393286ab", size = 2604018, upload-time = "2025-03-25T16:38:22.004Z" },
 ]
 
 [[package]]
@@ -1254,6 +1277,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/83/f8/51569ac65d696c8ecbee95938f89d4abf00f47d58d48f6fbabfe8f0baefe/nest_asyncio-1.6.0.tar.gz", hash = "sha256:6f172d5449aca15afd6c646851f4e31e02c598d553a667e38cafa997cfec55fe", size = 7418, upload-time = "2024-01-21T14:25:19.227Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/a0/c4/c2971a3ba4c6103a3d10c4b0f24f461ddc027f0f09763220cf35ca1401b3/nest_asyncio-1.6.0-py3-none-any.whl", hash = "sha256:87af6efd6b5e897c81050477ef65c62e2b2f35d51703cae01aff2905b1852e1c", size = 5195, upload-time = "2024-01-21T14:25:17.223Z" },
+]
+
+[[package]]
+name = "nodeenv"
+version = "1.9.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/43/16/fc88b08840de0e0a72a2f9d8c6bae36be573e475a6326ae854bcc549fc45/nodeenv-1.9.1.tar.gz", hash = "sha256:6ec12890a2dab7946721edbfbcd91f3319c6ccc9aec47be7c7e6b7011ee6645f", size = 47437, upload-time = "2024-06-04T18:44:11.171Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d2/1d/1b658dbd2b9fa9c4c9f32accbfc0205d532c8c6194dc0f2a4c0428e7128a/nodeenv-1.9.1-py2.py3-none-any.whl", hash = "sha256:ba11c9782d29c27c70ffbdda2d7415098754709be8a7056d79a737cd901155c9", size = 22314, upload-time = "2024-06-04T18:44:08.352Z" },
 ]
 
 [[package]]
