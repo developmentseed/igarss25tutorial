@@ -20,6 +20,7 @@ project:
     - title: 🧑‍🏫 Tutorials
       children:
         - file: tut1_intro.md
+        - file: tut2_EOFM_Evaluation.ipynb
 
 site:
   template: book-theme
