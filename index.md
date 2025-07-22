@@ -21,6 +21,20 @@ below to launch on
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/igarss25tutorial/blob/main/tut3_placeholder.ipynb)
 
+```
+!pip install uv
+
+!git clone https://github.com/developmentseed/igarss25tutorial.git
+!cd igarss25tutorial && git switch eofm_eval_notebook
+
+!cd igarss25tutorial && uv export -o pylock.toml > pylock.toml
+# ! && uv pip sync --preview --system pylock.toml
+
+!cd igarss25tutorial && pip install -r pylock.toml
+```
+
+
+
 Alternatively, you can choose to run the Jupyter notebooks on another cloud provider
 with GPU instances such as [Sagemaker Studio Lab](https://studiolab.sagemaker.aws).
 
@@ -81,3 +95,12 @@ Here's the instructions to install the `igarss25tutorial` environment:
 
 7. Open the Jupyter notebook in the left-pane file browser, e.g. by 🖱️ double-clicking
    on `tut3_placeholder.ipynb`. You are now ready to run through the course materials 🎉!
+
+
+```{admonition} Acknowledgements
+The contents of the first two tutorial pages are derived from a draft chapter on
+Foundation Models that will become a part of
+[the SERVIR Applied Deep Learning Book](https://servir.github.io/SERVIR-Applied-Deep-Learning-Book).
+We would like to thank [SERVIR](https://servirglobal.net) for their generous permission
+to re-purpose the contents of the book chapter for this IGARSS 2025 tutorial.
+```
