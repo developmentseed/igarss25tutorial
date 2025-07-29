@@ -5,7 +5,7 @@ name: MyST GitHub Pages Deploy
 
 on:
   # Uncomment the 'pull_request' line below to manually re-build Jupyter Book
-  pull_request:
+  # pull_request:
   push:
     # Runs on pushes targeting the default branch
     branches: [main]
