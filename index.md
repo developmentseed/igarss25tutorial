@@ -21,20 +21,6 @@ below to launch on
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/igarss25tutorial/blob/main/tut3_placeholder.ipynb)
 
-```
-!pip install uv
-
-!git clone https://github.com/developmentseed/igarss25tutorial.git
-!cd igarss25tutorial && git switch eofm_eval_notebook
-
-!cd igarss25tutorial && uv export -o pylock.toml > pylock.toml
-# ! && uv pip sync --preview --system pylock.toml
-
-!cd igarss25tutorial && pip install -r pylock.toml
-```
-
-
-
 Alternatively, you can choose to run the Jupyter notebooks on another cloud provider
 with GPU instances such as [Sagemaker Studio Lab](https://studiolab.sagemaker.aws).
 
