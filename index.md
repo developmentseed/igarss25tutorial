@@ -81,3 +81,12 @@ Here's the instructions to install the `igarss25tutorial` environment:
 
 7. Open the Jupyter notebook in the left-pane file browser, e.g. by 🖱️ double-clicking
    on `tut3_placeholder.ipynb`. You are now ready to run through the course materials 🎉!
+
+
+```{admonition} Acknowledgements
+The contents of the first two tutorial pages are derived from a draft chapter on
+Foundation Models that will become a part of
+[the SERVIR Applied Deep Learning Book](https://servir.github.io/SERVIR-Applied-Deep-Learning-Book).
+We would like to thank [SERVIR](https://servirglobal.net) for their generous permission
+to re-purpose the contents of the book chapter for this IGARSS 2025 tutorial.
+```

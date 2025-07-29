@@ -6,10 +6,20 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "earthaccess>=0.14.0",
+    "einops>=0.8.1",
+    "geopandas>=1.0.1",
+    "huggingface-hub>=0.33.4",
     "jupyterlab>=4.4.4",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
     "pystac-client>=0.8.6",
+    "python-box>=7.3.2",
+    "rioxarray>=0.19.0",
+    "scikit-learn>=1.7.1",
+    "stackstac>=0.5.1",
+    "terratorch>=1.0.2",
+    "torch>=2.7.0",
+    "torchvision>=0.22.0",
 ]
 
 [project.optional-dependencies]
