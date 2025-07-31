@@ -19,12 +19,12 @@ To run these notebooks in an interactive Jupyter session online, 🖱️ click o
 below to launch on
 [Google Colaboratory](https://colab.google).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/igarss25tutorial/blob/main/tut3_placeholder.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/igarss25tutorial/blob/main/tut2_EOFM_Evaluation.ipynb)
 
 Alternatively, you can choose to run the Jupyter notebooks on another cloud provider
 with GPU instances such as [Sagemaker Studio Lab](https://studiolab.sagemaker.aws).
 
-[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/developmentseed/igarss25tutorial/blob/main/tut3_placeholder.ipynb)
+[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/developmentseed/igarss25tutorial/blob/main/tut2_EOFM_Evaluation.ipynb)
 
 ### 💻 Creating a local environment for running tutorials
 
@@ -74,13 +74,13 @@ Here's the instructions to install the `igarss25tutorial` environment:
    terminal and this will take you to the Jupyter Lab page.
 
 6. Download the Jupyter notebook(s) you want to run (e.g.
-   https://www.developmentseed.org/igarss25tutorial/tut3_placeholder) using
+   https://www.developmentseed.org/igarss25tutorial/tut2-eofm-evaluation/) using
    either the download button on the ↗️ top right (select '.ipynb') or from GitHub at
    https://github.com/developmentseed/igarss25tutorial. Make sure to put
    the \*.ipynb file(s) inside of the 'igarss25tutorial' folder.
 
 7. Open the Jupyter notebook in the left-pane file browser, e.g. by 🖱️ double-clicking
-   on `tut3_placeholder.ipynb`. You are now ready to run through the course materials 🎉!
+   on `tut2_EOFM_Evaluation.ipynb`. You are now ready to run through the course materials 🎉!
 
 
 ```{admonition} Acknowledgements
