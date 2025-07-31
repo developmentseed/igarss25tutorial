@@ -24,9 +24,13 @@ South Bank, Brisbane, Queensland, Australia
 
 ## Schedule
 
-| Time (AEST) |                                          Topic                                           |
-| :---------: | :--------------------------------------------------------------------------------------: |
-| 13:00-17:00 |                                           TODO                                           |
+| Time (AEST) |                                                    Topic                                                     |
+| :---------: | :----------------------------------------------------------------------------------------------------------: |
+| 13:00-13:45 | [Tutorial 1: Introduction to Earth Foundation Models](./tut1_intro.md)                                       |
+| 13:45-14:45 | [Tutorial 2: Evaluating Foundation Models Trained with Earth Observation Data](./tut2_EOFM_Evaluation.ipynb) |
+| 14:45-15:15 | Break                                                                                                        |
+| 15:15-16:15 | [Tutorial 3a: Fine-tuning Clay Foundation Model for Land Cover Segmentation](./tut3a_EOFM_finetune.ipynb)    |
+| 16:15-17:00 | [Tutorial 3b: Model Inference and Results Visualization](./tut3b_EOFM_inference.ipynb)                       |
 
 ## Code of Conduct
 
