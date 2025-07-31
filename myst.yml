@@ -21,6 +21,8 @@ project:
       children:
         - file: tut1_intro.md
         - file: tut2_EOFM_Evaluation.ipynb
+        - file: tut3a_EOFM_finetune.ipynb
+        - file: tut3b_EOFM_inference.ipynb
 
 site:
   template: book-theme
