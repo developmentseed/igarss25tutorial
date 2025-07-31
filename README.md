@@ -17,7 +17,7 @@ Material for the Earth Foundation Model tutorial (HD-06) at the 2025
 - Sunday 3 August 2025, 13:00-17:00 (AEST) / 03:00-07:00 (UTC)
 - [Event Time Zone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IGARSS+2025+tutorial%3A+Harnessing+the+Power+of+Earth+Foundation+Models&iso=20250803T13&p1=47&ah=4)
 
-**Where**: Arbour Level Room A1, Brisbane Convention & Exhibition Centre, Cnr Merivale and Glenelg Streets
+**Where**: Plaza Level Meeting Room P3, Brisbane Convention & Exhibition Centre, Cnr Merivale and Glenelg Streets
 South Bank, Brisbane, Queensland, Australia
 
 **Website**: https://2025.ieeeigarss.org/tutorials.php#tut4
