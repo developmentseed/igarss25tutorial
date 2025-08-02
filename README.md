@@ -17,16 +17,22 @@ Material for the Earth Foundation Model tutorial (HD-06) at the 2025
 - Sunday 3 August 2025, 13:00-17:00 (AEST) / 03:00-07:00 (UTC)
 - [Event Time Zone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IGARSS+2025+tutorial%3A+Harnessing+the+Power+of+Earth+Foundation+Models&iso=20250803T13&p1=47&ah=4)
 
-**Where**: Arbour Level Room A1, Brisbane Convention & Exhibition Centre, Cnr Merivale and Glenelg Streets
+**Where**: Plaza Level Meeting Room P3, Brisbane Convention & Exhibition Centre, Cnr Merivale and Glenelg Streets
 South Bank, Brisbane, Queensland, Australia
 
 **Website**: https://2025.ieeeigarss.org/tutorials.php#tut4
 
 ## Schedule
 
-| Time (AEST) |                                          Topic                                           |
-| :---------: | :--------------------------------------------------------------------------------------: |
-| 13:00-17:00 |                                           TODO                                           |
+| Time (AEST) |                                                    Topic                                                     |
+| :---------: | :----------------------------------------------------------------------------------------------------------: |
+| 13:00-13:15 | Introductory remarks                                                                                         |
+| 13:15-14:00 | [Tutorial 1: Introduction to Earth Foundation Models](./tut1_intro.md) (Slides)                              |
+| 14:00-14:45 | [Tutorial 2: Evaluating Foundation Models Trained with Earth Observation Data](./tut2_EOFM_Evaluation.ipynb) |
+| 14:45-15:15 | Break                                                                                                        |
+| 15:15-16:00 | [Tutorial 3a: Fine-tuning Clay Foundation Model for Land Cover Segmentation](./tut3a_EOFM_finetune.ipynb)    |
+| 16:00-16:45 | [Tutorial 3b: Model Inference and Results Visualization](./tut3b_EOFM_inference.ipynb)                       |
+| 16:45-17:00 | Q&A                                                                                                          |
 
 ## Code of Conduct
 
