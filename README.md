@@ -30,8 +30,7 @@ South Bank, Brisbane, Queensland, Australia
 | 13:15-14:00 | [Tutorial 1: Introduction to Earth Foundation Models](./tut1_intro.md) (Slides)                              |
 | 14:00-14:45 | [Tutorial 2: Evaluating Foundation Models Trained with Earth Observation Data](./tut2_EOFM_Evaluation.ipynb) |
 | 14:45-15:15 | Break                                                                                                        |
-| 15:15-16:00 | [Tutorial 3a: Fine-tuning Clay Foundation Model for Land Cover Segmentation](./tut3_EOFM_finetune.ipynb)    |
-| 16:00-16:45 | [Tutorial 3b: Model Inference and Results Visualization](./tut3_EOFM_inference.ipynb)                       |
+| 15:15-16:45 | [Tutorial 3: Fine-tuning Clay Foundation Model for Land Cover Segmentation](./tut3_EOFM_finetune.ipynb)    |
 | 16:45-17:00 | Q&A                                                                                                          |
 
 ## Code of Conduct

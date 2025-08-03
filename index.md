@@ -6,8 +6,8 @@ how to apply 🧱 Foundation Models to 🛰️ Earth Observation data.
 ## 📚 Overview of tutorials
 
 1. Introduction to Earth Foundation Models
-2. Choosing a Foundation Model
-3. Applying Foundation Models to Downstream Tasks
+2. Evaluating EO Foundation Models
+3. Applying Foundation Models to Segmentation downstream task
 
 Each tutorial is rendered on this website for easy viewing 👀, but some of them are
 Jupyter notebooks designed to be ran interactively 💫. See the instructions below on how
