@@ -1,5 +1,9 @@
 # Introduction to Earth Foundation Models
 
+## Slides
+
+[Harnessing the Power of Earth Foundation Models: A Comprehensive Guide to Using Earth Foundation Models for Remote Sensing Applications](https://docs.google.com/presentation/d/1meOQfNVOIaaYoqlgtpC_niqGlVIrCTUznskNptahmxo/edit?usp=sharing)
+
 ---
 
 ## Overview
