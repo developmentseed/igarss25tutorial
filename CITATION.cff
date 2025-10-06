@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://citation-file-format.github.io/cff-initializer-javascript to generate yours today!
+
+cff-version: 1.2.0
+title: Harnessing the Power of Earth Foundation Models
+message: >-
+  If you use these tutorial materials, please cite it using
+  the metadata from this file
+type: software
+authors:
+  - given-names: Wei Ji
+    family-names: Leong
+    affiliation: Development Seed
+    orcid: 'https://orcid.org/0000-0003-2354-1988'
+  - given-names: Lilly
+    family-names: Thomas
+    affiliation: Development Seed
+  - given-names: Soumya Ranjan
+    family-names: Mohanty
+    affiliation: Development Seed
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17274636
+repository-code: 'https://github.com/developmentseed/igarss25tutorial'
+url: 'https://developmentseed.org/igarss25tutorial'
+license: CC-BY-4.0
+references:
+  - conference:
+      name: "International Geoscience and Remote Sensing Symposium 2025"
+      country: AU
+version: 1.0.0
+date-released: '2025-08-03'
