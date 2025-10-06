@@ -24,5 +24,9 @@ identifiers:
 repository-code: 'https://github.com/developmentseed/igarss25tutorial'
 url: 'https://developmentseed.org/igarss25tutorial'
 license: CC-BY-4.0
+references:
+  - conference:
+      name: "International Geoscience and Remote Sensing Symposium 2025"
+      country: AU
 version: 1.0.0
 date-released: '2025-08-03'
